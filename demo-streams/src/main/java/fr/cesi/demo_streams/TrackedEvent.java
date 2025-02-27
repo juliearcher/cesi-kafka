@@ -1,8 +1,7 @@
-package fr.cesi.producerpoller;
+package fr.cesi.demo_streams;
 
 import lombok.*;
 
-import java.time.LocalDate;
 import java.util.Date;
 
 @Getter @Setter @NoArgsConstructor @AllArgsConstructor @ToString
